@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    margin: 450px 300px 400px 200px;
+}
+
+body ul li{
+    list-style: none;
+    border: 1px solid #d9ebfa;
+    display: inline-block;
+    padding: 10px 15px;
+    border-radius: 10px;
+    background-color: #d9ebfa;
+    color: #0671c9;
+    font-family: Verdana;
+    text-decoration: none;
+}
+
+body ul li:hover{
+    background-color: #bcdcf7;
+    font-weight: bold;
+}
